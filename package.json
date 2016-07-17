@@ -1,0 +1,26 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "pokemon pokedex",
+  "main": "package.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "Error: No test detected."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angular-Bootcamp/CodeChallenge1-AlanGarcia.git"
+  },
+  "keywords": [
+    "git",
+    "pokedex"
+  ],
+  "author": "Alan Garcia de Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angular-Bootcamp/CodeChallenge1-AlanGarcia/issues"
+  },
+  "homepage": "https://github.com/Angular-Bootcamp/CodeChallenge1-AlanGarcia#readme"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "pokedex",
+  "description": "pokemon pokedex",
+  "main": "bower.json",
+  "authors": [
+    "Alan Garcia de Leon"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "git",
+    "pokemon"
+  ],
+  "homepage": "https://github.com/Angular-Bootcamp/CodeChallenge1-AlanGarcia",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
