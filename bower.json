@@ -1,7 +1,7 @@
 {
   "name": "pokedex",
   "description": "pokemon pokedex",
-  "main": "bower.json",
+  "main": "index.html",
   "authors": [
     "Alan Garcia de Leon"
   ],
